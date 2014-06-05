@@ -1,0 +1,7 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+title: Programando tudo
+tagline: 
+description: My awesome new site via <a href="https://tinypress.co/&quot; target=&quot;_blank">Tinypress</a>
+paginate: 10
